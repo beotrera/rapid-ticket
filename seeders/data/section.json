@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "showId": 1,
+        "name": "Platea Baja",
+        "availability": 5000,
+        "price": 5000
+    },
+    {
+        "id": 2,
+        "showId": 1,
+        "name": "Platea Alta",
+        "availability": 5000,
+        "price": 10000
+    },
+    {
+        "id": 3,
+        "showId": 1,
+        "name": "Cancha",
+        "availability": 5000,
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "showId": 3,
+        "name": "Sector C",
+        "availability": 100,
+        "price": 5000,
+        "columnStart": "D",
+        "columnEnd": "F",
+        "rowStart": 1,
+        "rowEnd": 20
+    },
+    {
+        "id": 5,
+        "showId": 3,
+        "name": "Sector A",
+        "availability": 300,
+        "price": 10000,
+        "columnStart": "A",
+        "columnEnd": "C",
+        "rowStart": 1,
+        "rowEnd": 20
+    },
+    {
+        "id": 6,
+        "showId": 3,
+        "name": "Sector B",
+        "availability": 100,
+        "price": 2000,
+        "columnStart": "G",
+        "columnEnd": "I",
+        "rowStart": 1,
+        "rowEnd": 20
+    },
+    {
+        "id": 7,
+        "showId": 2,
+        "name": "General",
+        "availability": 100000,
+        "price": 10000
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 3,
+        "name": "Movistar Arena",
+        "address": "test",
+        "capacity": 15000
+    },
+    {
+        "id": 1,
+        "name": "Hipodromo de San Isidro",
+        "address": "test",
+        "capacity": 100000
+    },
+    {
+        "id": 2,
+        "name": "Pase la plaza - Neruda",
+        "address": "test",
+        "capacity": 500
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Plataforma",
+        "email": "test@test.com",
+        "password": "$2a$12$6MMUT3LGOcEIbP.gnnr5IeggE4mOummFBCHhcO/5DAMg9Oz0GxoT2",
+        "userType": "PLATAFORM"
+    },
+    {
+        "id": 2,
+        "name": "Admin",
+        "email": "admin@test.com",
+        "password": "$2a$12$6MMUT3LGOcEIbP.gnnr5IeggE4mOummFBCHhcO/5DAMg9Oz0GxoT2",
+        "userType": "ADMIN"
+    }
+]

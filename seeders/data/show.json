@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "placeId": 3,
+        "title": "Los fabulosos cadillacs",
+        "date": "2024-11-05T14:00:00Z",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+        "id": 2,
+        "placeId": 1,
+        "title": "Lollapalooza",
+        "date": "2024-11-06T14:00:00Z",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+        "id": 3,
+        "placeId": 2,
+        "title": "Reverso",
+        "date": "2024-11-07T14:00:00Z",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+]
